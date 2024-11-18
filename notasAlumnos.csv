@@ -1,0 +1,101 @@
+Curso,Nombre,Apellido,Código,PC1,PC2,PC3,PA,EF,PF
+Taller de Programación,Juan,García,ALU0001-TP,15,18,16,17,18,17.4
+Taller de Programación,Miguel,Rodríguez,ALU0002-TP,14,17,19,16,20,17.8
+Taller de Programación,Sofía,Pérez,ALU0003-TP,12,15,14,18,15,15.2
+Taller de Programación,Carlos,López,ALU0004-TP,19,16,17,20,19,18.6
+Taller de Programación,Laura,Hernández,ALU0005-TP,18,18,19,19,18,18.8
+Taller de Programación,José,González,ALU0006-TP,13,14,12,17,16,14.4
+Taller de Programación,María,Sánchez,ALU0007-TP,20,19,18,18,20,19.2
+Taller de Programación,Ana,Martínez,ALU0008-TP,14,12,15,14,13,14.0
+Taller de Programación,Miguel,Ramírez,ALU0009-TP,16,17,14,15,16,15.8
+Taller de Programación,Elena,Flores,ALU0010-TP,15,15,16,16,17,15.8
+Taller de Programación,María,Flores,ALU0011-TP,17,15,18,14,19,16.8
+Taller de Programación,Carlos,González,ALU0012-TP,12,14,13,15,12,13.2
+Taller de Programación,Elena,López,ALU0013-TP,19,18,17,20,19,18.8
+Taller de Programación,Miguel,Rodríguez,ALU0014-TP,16,17,14,18,16,16.4
+Taller de Programación,Juan,Hernández,ALU0015-TP,18,19,20,20,18,19.4
+Taller de Programación,Ana,Pérez,ALU0016-TP,14,12,11,14,15,13.4
+Taller de Programación,Laura,Martínez,ALU0017-TP,20,19,18,19,20,19.2
+Taller de Programación,José,Sánchez,ALU0018-TP,15,14,16,15,16,15.2
+Taller de Programación,Luis,Ramírez,ALU0019-TP,13,12,14,12,14,13.4
+Taller de Programación,Sofía,García,ALU0020-TP,18,16,17,20,19,18.4
+Taller de Programación,Miguel,Pérez,ALU0021-TP,19,20,18,18,20,19.2
+Taller de Programación,Juan,Rodríguez,ALU0022-TP,14,15,16,14,15,15.0
+Taller de Programación,Laura,González,ALU0023-TP,12,13,11,13,12,12.2
+Taller de Programación,Carlos,Ramírez,ALU0024-TP,16,18,17,19,18,17.8
+Taller de Programación,Elena,López,ALU0025-TP,15,14,16,17,15,15.4
+Taller de Programación,Sofía,Flores,ALU0026-TP,17,16,18,20,19,18.2
+Taller de Programación,José,Hernández,ALU0027-TP,19,18,20,18,20,19.2
+Taller de Programación,Laura,Sánchez,ALU0028-TP,14,15,13,14,15,14.2
+Taller de Programación,Luis,Martínez,ALU0029-TP,13,12,14,15,12,13.4
+Taller de Programación,María,García,ALU0030-TP,18,19,20,19,20,19.4
+Taller de Programación,Miguel,López,ALU0031-TP,12,13,14,13,14,13.2
+Taller de Programación,Ana,Rodríguez,ALU0032-TP,14,15,12,15,14,14.0
+Taller de Programación,Carlos,Pérez,ALU0033-TP,20,19,18,19,20,19.2
+Taller de Programación,Luis,Flores,ALU0034-TP,15,14,16,14,15,14.8
+Taller de Programación,Sofía,González,ALU0035-TP,17,18,19,17,18,17.8
+Taller de Programación,Elena,Hernández,ALU0036-TP,14,13,12,13,14,13.2
+Taller de Programación,José,Sánchez,ALU0037-TP,18,16,17,19,18,17.6
+Taller de Programación,Laura,Ramírez,ALU0038-TP,20,19,18,20,19,19.2
+Taller de Programación,María,Pérez,ALU0039-TP,12,14,13,14,12,13.0
+Taller de Programación,Miguel,López,ALU0040-TP,14,15,16,15,14,14.8
+Taller de Programación,Juan,Flores,ALU0041-TP,18,20,19,18,20,19.0
+Taller de Programación,Laura,González,ALU0042-TP,15,14,16,17,15,15.4
+Taller de Programación,Luis,Hernández,ALU0043-TP,17,18,16,19,17,17.4
+Taller de Programación,Carlos,García,ALU0044-TP,19,20,18,20,19,19.2
+Taller de Programación,Elena,Rodríguez,ALU0045-TP,14,15,13,14,15,14.2
+Taller de Programación,Sofía,Martínez,ALU0046-TP,16,17,15,16,17,16.2
+Taller de Programación,Ana,Sánchez,ALU0047-TP,13,12,14,14,12,13.2
+Taller de Programación,Miguel,Pérez,ALU0048-TP,18,16,17,20,18,17.8
+Taller de Programación,José,Hernández,ALU0049-TP,20,18,19,18,20,19.0
+Taller de Programación,Juan,Ramírez,ALU0050-TP,14,15,16,15,14,14.8
+Sistemas Operativos,Luis,García,ALU0001-SO,17,16,19,18,20,18.6
+Sistemas Operativos,Carlos,Rodríguez,ALU0002-SO,14,12,15,16,14,14.6
+Sistemas Operativos,Ana,López,ALU0003-SO,18,19,20,19,18,19.4
+Sistemas Operativos,Laura,Hernández,ALU0004-SO,16,15,14,17,15,15.2
+Sistemas Operativos,María,González,ALU0005-SO,20,18,17,18,19,18.8
+Sistemas Operativos,Miguel,Sánchez,ALU0006-SO,12,11,10,13,12,11.6
+Sistemas Operativos,Sofía,Pérez,ALU0007-SO,15,14,13,14,13,14.0
+Sistemas Operativos,José,Martínez,ALU0008-SO,17,16,18,19,20,18.2
+Sistemas Operativos,Elena,Flores,ALU0009-SO,14,15,16,15,14,14.8
+Sistemas Operativos,Juan,Ramírez,ALU0010-SO,19,18,17,18,19,18.4
+Sistemas Operativos,Carlos,López,ALU0011-SO,16,17,14,15,16,15.8
+Sistemas Operativos,Sofía,Rodríguez,ALU0012-SO,20,19,18,19,20,19.2
+Sistemas Operativos,Laura,García,ALU0013-SO,14,15,12,14,15,14.0
+Sistemas Operativos,Miguel,Pérez,ALU0014-SO,18,19,20,18,19,19.0
+Sistemas Operativos,Ana,Hernández,ALU0015-SO,12,13,14,15,14,13.4
+Sistemas Operativos,Luis,Flores,ALU0016-SO,16,15,14,17,16,15.6
+Sistemas Operativos,María,González,ALU0017-SO,19,18,17,20,19,18.8
+Sistemas Operativos,José,Sánchez,ALU0018-SO,14,13,15,14,13,14.2
+Sistemas Operativos,Carlos,Martínez,ALU0019-SO,17,16,18,19,20,18.2
+Sistemas Operativos,Elena,López,ALU0020-SO,15,14,16,16,17,15.8
+Sistemas Operativos,Laura,Pérez,ALU0021-SO,20,19,18,19,20,19.2
+Sistemas Operativos,Juan,Rodríguez,ALU0022-SO,14,12,15,14,15,14.0
+Sistemas Operativos,Sofía,Hernández,ALU0023-SO,18,19,20,20,19,19.4
+Sistemas Operativos,Miguel,García,ALU0024-SO,12,14,13,15,14,13.6
+Sistemas Operativos,Ana,Flores,ALU0025-SO,16,17,14,18,16,16.4
+Sistemas Operativos,Elena,González,ALU0026-SO,15,14,13,16,14,14.4
+Sistemas Operativos,Laura,Sánchez,ALU0027-SO,17,18,16,19,17,17.4
+Sistemas Operativos,Carlos,Martínez,ALU0028-SO,19,20,18,20,19,19.2
+Sistemas Operativos,Juan,López,ALU0029-SO,13,12,14,14,13,13.2
+Sistemas Operativos,Sofía,Rodríguez,ALU0030-SO,18,17,19,18,20,18.6
+Sistemas Operativos,José,Pérez,ALU0031-SO,15,16,17,15,14,15.4
+Sistemas Operativos,Luis,Hernández,ALU0032-SO,20,19,18,19,20,19.2
+Sistemas Operativos,Miguel,Sánchez,ALU0033-SO,14,12,13,14,15,13.8
+Sistemas Operativos,María,Ramírez,ALU0034-SO,16,15,17,18,16,16.4
+Sistemas Operativos,Ana,González,ALU0035-SO,12,13,14,15,14,13.4
+Sistemas Operativos,Elena,López,ALU0036-SO,19,18,20,18,19,18.8
+Sistemas Operativos,Carlos,Flores,ALU0037-SO,15,14,16,15,14,14.8
+Sistemas Operativos,Sofía,Pérez,ALU0038-SO,17,16,18,19,20,18.2
+Sistemas Operativos,Laura,Hernández,ALU0039-SO,14,15,13,14,15,14.2
+Sistemas Operativos,Juan,Rodríguez,ALU0040-SO,20,18,19,18,20,19.0
+Sistemas Operativos,Miguel,García,ALU0041-SO,16,17,15,16,17,16.2
+Sistemas Operativos,María,Sánchez,ALU0042-SO,12,13,14,14,12,13.2
+Sistemas Operativos,Luis,Martínez,ALU0043-SO,18,19,20,20,19,19.2
+Sistemas Operativos,Carlos,González,ALU0044-SO,14,15,16,15,14,14.8
+Sistemas Operativos,Elena,Ramírez,ALU0045-SO,17,16,18,19,18,17.6
+Sistemas Operativos,Laura,López,ALU0046-SO,20,19,18,20,19,19.2
+Sistemas Operativos,José,Flores,ALU0047-SO,13,12,14,14,13,13.4
+Sistemas Operativos,Juan,Pérez,ALU0048-SO,18,17,19,20,19,18.6
+Sistemas Operativos,Ana,Hernández,ALU0049-SO,15,14,16,16,15,15.2
+Sistemas Operativos,Sofía,Ramírez,ALU0050-SO,14,15,13,14,15,14.2

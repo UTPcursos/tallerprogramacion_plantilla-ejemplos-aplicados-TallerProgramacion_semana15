@@ -1,0 +1,2 @@
+Curso: Sistemas OperativosPromedio: 16
+Curso: Taller de ProgramaciónPromedio: 16
